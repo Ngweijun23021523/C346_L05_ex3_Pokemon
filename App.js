@@ -9,7 +9,7 @@ const datasource = [
             {key:'Raticate',image:require('./img/Raticate.png')}
 
         ],
-        title: "Norma   l",
+        title: "Normal",
         bgcolor: "grey",
         iconName: "star",
     },
