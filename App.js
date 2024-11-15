@@ -95,7 +95,7 @@ const App = () => {
     return (
         <View>
             <View style={styles.buttonContainer}>
-                <Button title="Add Pokemon" />
+                <Button title="Add Pokemons" />
             </View>
             <SectionList
                 sections={datasource}
