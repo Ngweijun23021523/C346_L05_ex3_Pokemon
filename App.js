@@ -21,7 +21,6 @@ const datasource = [
         title: "Fire",
         bgcolor: 'red',
         iconName:'fire',
-        backgroundcolor:'lightred'
 
     }
 ];
